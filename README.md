@@ -8,7 +8,7 @@ The project brings the supporting data and final interactive dashboard together 
 
 ## 📌 Dashboard Preview
 
-![FNP Sales Dashboard](screenshots/dashboard.png)
+![FNP Sales Dashboard](FNP-Dashboard.png)
 
 ---
 
