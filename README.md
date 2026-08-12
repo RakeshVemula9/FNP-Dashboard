@@ -377,15 +377,11 @@ These details help make the final dashboard easier to understand and use.
 # 📁 Repository Structure
 
 ```text
-FNP-Sales-Dashboard/
-│
-├── FNP_Sales_Dashboard.xlsx
+FNP-Dashboard/
+├── FNP_Dashboard.xlsx
+├── FNP-Dashboard.png
 ├── README.md
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── dataset/
+└── fnp datasets/
     ├── customers.xls
     ├── orders.xls
     └── products.xls
